@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: gray;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .rome, .copenaghen, .tokyo {
     width: 490px;
     height: 310px;
